@@ -211,10 +211,11 @@ body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:0;opa
 }
 /* App-Modus (vom Home-Bildschirm): Platz für Notch und Home-Leiste */
 @media (display-mode: standalone){ .wrap{padding-top:calc(16px + env(safe-area-inset-top))} .copy{padding-bottom:calc(10px + env(safe-area-inset-bottom))} }
-.installhint{display:none;align-items:flex-start;gap:10px;background:#FFFCE0;border:1px solid #E9DC5A;border-left:4px solid #F2E200;border-radius:12px;padding:10px 12px;margin:0 0 12px;font-size:13.5px;line-height:1.4}
+.installhint{display:none;align-items:flex-start;gap:10px;color:#2B2A12;background:#FFFCE0;border:1px solid #E9DC5A;border-left:4px solid #F2E200;border-radius:12px;padding:10px 12px;margin:0 0 12px;font-size:13.5px;line-height:1.4}
 .installhint.show{display:flex}
 .installhint b{display:block}
-.installhint button{margin-left:auto;flex:none;border:0;background:none;font-size:20px;line-height:1;color:var(--muted);padding:0 2px}
+.installhint button{margin-left:auto;flex:none;border:0;background:none;font-size:20px;line-height:1;color:#5A5630;padding:0 2px}
+@media (prefers-color-scheme: dark){ .installhint{background:#3A3510;border-color:#8A7E1E;color:#FFF7C2} .installhint button{color:#E8DF9A} }
 </style>
 </head>
 <body>
