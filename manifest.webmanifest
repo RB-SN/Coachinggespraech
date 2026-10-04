@@ -1,0 +1,30 @@
+{
+ "name": "Vorbereitung Coachinggespräch",
+ "short_name": "Coaching",
+ "description": "Vorbereitung auf das Coachinggespräch – für Schülerinnen und Schüler. © 2026 Ramon Betschart",
+ "lang": "de-CH",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F1F4F2",
+ "theme_color": "#108870",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+Vorbereitung Coachinggespräch – App für Schülerinnen und Schüler
+© 2026 Ramon Betschart. Alle Rechte vorbehalten.
+
+1. VERÖFFENTLICHEN (einmalig, Lehrperson)
+   Den ganzen Ordner «Coaching-App» auf einen Webspace mit HTTPS hochladen,
+   z. B. Netlify Drop (app.netlify.com/drop: Ordner ins Fenster ziehen),
+   GitHub Pages oder die Website der Schule.
+   Danach erhältst du eine Adresse wie https://….netlify.app
+
+2. AN DIE SUS VERTEILEN
+   Adresse als Link in Teams posten oder als QR-Code aufhängen.
+
+3. ALS APP SPEICHERN (SuS, einmalig)
+   iPhone: Link in Safari öffnen → Teilen ⬆︎ → «Zum Home-Bildschirm».
+   Android: Link in Chrome öffnen → Menü ⋮ → «App installieren» bzw. «Zum Startbildschirm hinzufügen».
+   Danach öffnet sich die Vorbereitung wie eine App (auch ohne Internet).
+
+4. AUSFÜLLEN UND SENDEN
+   Alle Felder ausfüllen → «An Lehrperson senden» → Teams wählen → Chat mit der Lehrperson.
+   Die Datei heisst «Vorname_Vorbereitung Coachinggespräch.json» und wird im Coachingtool
+   unter «Reflexionsgespräch» geladen.
+
+DATENSCHUTZ
+   Die App speichert keine Eingaben – weder im Internet noch auf dem Handy.
+   Beim nächsten Öffnen ist sie wieder leer. Offline gespeichert werden nur die App-Dateien selbst.
